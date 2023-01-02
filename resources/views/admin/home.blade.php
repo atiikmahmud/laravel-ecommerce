@@ -4,7 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Corona Admin</title>
+    <title>Laravel Ecommerce</title>
     
     @include('admin.css')
 
@@ -32,6 +32,6 @@
     </div>
 
     @include('admin.script')
-    
+
   </body>
 </html>
